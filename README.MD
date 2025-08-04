@@ -1,14 +1,3 @@
-# Site acessível sobre Tropicália
-# Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
-## Recursos de acessibilidade
-- Atributos aria
-- alt
-- tab-index
-- menu de acessibilidade
-## Tecnologias utilizadas
-- Bootstrap
-- ScrollRevealjs
-- HTML
-- CSS
-- JS
+Site tropicália feito para ser acessível, possibilitando ativar opção de daltonismo e aumento ou diminuição das fontes para pessoas com dificuldades visuais.
+
+Link do site:

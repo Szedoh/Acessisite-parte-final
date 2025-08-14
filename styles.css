@@ -29,8 +29,8 @@ section {
 }
 
 .inicio-fundo {
-    /* O background-image de 4965007.jpg foi removido daqui para resolver o problema */
-    /* background-image: url('img/4965007.jpg'); */
+    /* aula 3 */
+    background-image: url('img/4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -113,8 +113,7 @@ h2 {
 }
 
 #contato {
-    /* O background-image de 4965007.jpg foi removido daqui para resolver o problema */
-    /* background-image: url('img/4965007.jpg'); */
+    background-image: url('img/4965007.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */

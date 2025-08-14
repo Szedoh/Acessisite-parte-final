@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('[https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap](https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap)');
+@import url('[https://fonts.googleapis.com/css2?family=Lemon&display=swap](https://fonts.googleapis.com/css2?family=Lemon&display=swap)');
 
 :root {
     --laranja-claro: #FF862A;
@@ -27,7 +27,8 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('img/4965007.jpg');
+    /* Removido background-image */
+    background-color: #f0f0f0; /* Cor de fundo sólida */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -100,7 +101,8 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    /* Removido background-image */
+    background-color: #e0e0e0; /* Cor de fundo sólida */
     background-size: cover;
     padding: 4rem 0;
 }
